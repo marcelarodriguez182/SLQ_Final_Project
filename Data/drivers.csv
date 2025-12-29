@@ -1,0 +1,121 @@
+driver_id,driver_name,vehicle_type,city,is_active
+1,Carlos Ruiz,Car,Salt Lake City,1
+2,Sofia Martinez,Bike,Murray,1
+3,Mike Johnson,Car,West Valley,1
+4,Valentina Rojas,Car,Salt Lake City,1
+5,Brandon Russell,Car,West Valley,1
+6,Steven Johnson,Bike,West Valley,1
+7,Evelyn Christian,Car,South Jordan,1
+8,George Cook,Bike,Salt Lake City,1
+9,Aaron Graham,Car,West Valley,1
+10,Kyle Jones,Scooter,Murray,1
+11,Jerome Whitehead,Car,South Jordan,1
+12,Charles Tyler,Scooter,South Jordan,1
+13,Thomas Berry,Car,West Valley,0
+14,Ryan Mack,Car,Salt Lake City,1
+15,Robert Clark,Scooter,Murray,1
+16,Kelsey Pacheco,Car,West Valley,0
+17,James Hammond,Scooter,South Jordan,1
+18,Melinda Little,Bike,Salt Lake City,1
+19,Stefanie Tucker,Bike,Draper,0
+20,Jade Johnson,Car,Draper,1
+21,Catherine Wilkins,Car,South Jordan,0
+22,Mary Jackson,Scooter,Draper,0
+23,James Jones,Scooter,Sandy,0
+24,Kenneth Rogers,Bike,Draper,1
+25,Brandon Fuller,Scooter,Murray,1
+26,Harold Perez,Bike,Sandy,1
+27,Misty Stout,Car,West Valley,1
+28,Wendy Maynard,Scooter,South Jordan,1
+29,Cynthia Webb,Scooter,South Jordan,0
+30,William Wallace,Scooter,West Valley,1
+31,Amanda Taylor,Car,Draper,1
+32,David Bell,Scooter,West Valley,1
+33,Jeffrey Fisher,Bike,Murray,0
+34,Arthur Kelly,Scooter,Draper,1
+35,Jeffrey Smith,Scooter,West Valley,0
+36,Angel Benson,Scooter,Sandy,1
+37,William Baker,Scooter,South Jordan,1
+38,Paul Rogers,Car,Draper,0
+39,Mark Booker,Bike,South Jordan,1
+40,Jennifer Robbins,Car,Murray,0
+41,Jacqueline Young,Car,Salt Lake City,1
+42,Shawn Brown,Bike,Sandy,1
+43,Kimberly Thomas,Bike,Sandy,0
+44,Sydney Parsons,Car,Salt Lake City,1
+45,Cameron Proctor,Scooter,West Valley,1
+46,Lori Pham,Car,South Jordan,1
+47,Antonio Taylor,Scooter,South Jordan,1
+48,Hannah Pitts,Scooter,Sandy,0
+49,Veronica Barnett,Car,West Valley,1
+50,Rick Johnson,Bike,Salt Lake City,1
+51,Shelby Robertson,Bike,West Valley,1
+52,Jonathan Gardner,Scooter,Sandy,1
+53,Steven Peterson,Bike,Salt Lake City,1
+54,Jonathan Harris,Bike,Sandy,1
+55,James Mays,Scooter,Salt Lake City,1
+56,Craig Gonzalez,Scooter,South Jordan,1
+57,Stephanie Lee DDS,Car,Sandy,1
+58,Evan Peterson,Bike,West Valley,1
+59,Tanya Lamb,Scooter,West Valley,1
+60,Rachel Webb,Scooter,Murray,0
+61,Paula Scott,Bike,Salt Lake City,1
+62,Laura Tucker,Bike,Sandy,1
+63,Danny Mason,Bike,South Jordan,0
+64,Mark Villanueva,Bike,South Jordan,1
+65,Lisa Simpson,Car,Draper,1
+66,Barbara Williams,Scooter,Draper,1
+67,Heidi Caldwell,Bike,Draper,1
+68,Ian Townsend,Scooter,Sandy,1
+69,Paul Hoover,Car,Draper,1
+70,William Brown,Car,West Valley,1
+71,Jonathan Calderon,Car,West Valley,1
+72,Justin Richardson,Bike,Salt Lake City,1
+73,Barbara Baker,Car,Draper,1
+74,Erica Raymond,Car,Murray,1
+75,James Rodriguez,Scooter,Murray,1
+76,Tracey Nguyen,Scooter,West Valley,1
+77,Deborah Gonzales,Bike,Draper,1
+78,Danielle Vaughn,Scooter,Murray,0
+79,Susan Hill,Bike,Sandy,0
+80,Catherine Smith,Car,West Valley,0
+81,Morgan Woods,Bike,South Jordan,1
+82,Zachary Thomas,Scooter,Murray,1
+83,Stephanie Walker,Scooter,Draper,0
+84,Julie Lam,Bike,Sandy,1
+85,Patricia Roberts,Scooter,Salt Lake City,1
+86,Vicki Flores,Bike,West Valley,0
+87,Michael Brown,Bike,West Valley,1
+88,Christopher Perry,Bike,West Valley,1
+89,Lawrence Crawford,Car,South Jordan,1
+90,Anthony Warren,Bike,South Jordan,1
+91,Tammy Franco,Car,Draper,0
+92,Sean Mcdonald,Bike,Salt Lake City,1
+93,Brandon Ramos,Car,West Valley,1
+94,Diana Lee,Car,South Jordan,1
+95,Andrea Ayers,Scooter,South Jordan,1
+96,Rick Rodriguez,Car,South Jordan,1
+97,Pamela Graham,Car,Sandy,0
+98,Johnny Lee,Bike,South Jordan,1
+99,David Johnson,Car,Sandy,0
+100,Angel Ho,Scooter,Draper,1
+101,Matthew Payne,Bike,Salt Lake City,1
+102,Todd Cross,Car,Salt Lake City,0
+103,Jessica Carter,Scooter,South Jordan,1
+104,Brian Lambert,Bike,Draper,1
+105,Christy Johnson,Bike,Draper,1
+106,Christian Walker,Bike,West Valley,1
+107,Matthew Hamilton,Scooter,Salt Lake City,0
+108,Jeanette Terrell,Scooter,Draper,1
+109,Andrew Taylor DDS,Scooter,Draper,1
+110,Beth Stevens,Bike,Sandy,0
+111,Kristen Smith,Car,Sandy,1
+112,Donna Lewis,Bike,West Valley,1
+113,Ashley Gallegos,Bike,West Valley,0
+114,Leslie Nguyen,Car,Draper,1
+115,Michael Chung,Bike,Sandy,1
+116,Cameron Alvarez,Car,Salt Lake City,1
+117,Abigail Mccormick,Scooter,Murray,1
+118,Andrew Thomas,Bike,South Jordan,0
+119,Timothy Stanley,Car,West Valley,1
+120,Christian Murray,Car,South Jordan,1

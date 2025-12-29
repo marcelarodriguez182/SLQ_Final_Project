@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone,city,signup_date
+1,Ana,Gomez,ana@example.com,555-1111,Salt Lake City,2024-01-10
+2,Luis,Perez,luis@example.com,555-2222,Murray,2024-02-05
+3,Maria,Lopez,maria@example.com,555-3333,West Valley,2024-03-12
+4,John,Smith,john@example.com,555-4444,Salt Lake City,2024-01-25
+5,Emily,Brown,emily@example.com,555-5555,Murray,2024-02-18
+6,Daniel,Torres,daniel@example.com,555-6666,West Valley,2024-03-22
+7,Sofia,Hernandez,sofia@example.com,555-7777,Salt Lake City,2024-04-02
+8,Danielle,Johnson,danielle.johnson@example.com,3321819600,Sandy,2023-02-27
+9,William,Johnson,william.johnson@example.com,8637940265,Salt Lake City,2024-01-15
+10,Susan,Rogers,susan.rogers@example.com,6155940781,West Valley,2023-05-06
+11,Kelly,Fuller,kelly.fuller@example.com,9310341316,Murray,2023-03-13
+12,Francisco,Kelly,francisco.kelly@example.com,1928327648,Sandy,2023-02-22
+13,Jeremy,Johnson,jeremy.johnson@example.com,6413953767,Sandy,2024-01-15
+14,John,Hoffman,john.hoffman@example.com,9696532871,Draper,2023-02-14
+15,Courtney,Conner,courtney.conner@example.com,9166978480,Draper,2023-08-05
+16,Kayla,Peterson,kayla.peterson@example.com,6270482814,Salt Lake City,2023-01-16
+17,Eric,Farmer,eric.farmer@example.com,9570154303,Salt Lake City,2023-04-22
+18,Jessica,Cabrera,jessica.cabrera@example.com,2782489638,Murray,2023-09-16
+19,Wanda,Santos,wanda.santos@example.com,8713315098,Draper,2023-01-14
+20,Adrian,Zimmerman,adrian.zimmerman@example.com,3105183473,Draper,2023-04-12
+21,Barbara,Sanchez,barbara.sanchez@example.com,6311656670,Sandy,2023-11-29
+22,Jessica,Mcbride,jessica.mcbride@example.com,3338726247,Sandy,2023-10-07
+23,Lindsey,Chase,lindsey.chase@example.com,0801326773,South Jordan,2023-04-23
+24,Nicholas,Galloway,nicholas.galloway@example.com,7468723430,South Jordan,2023-10-29
+25,Julie,Brown,julie.brown@example.com,8820812191,West Valley,2024-02-19
+26,Shelly,Hudson,shelly.hudson@example.com,9169985435,Salt Lake City,2024-01-24
+27,David,Brewer,david.brewer@example.com,5107991183,Murray,2023-12-24
+28,Sarah,Ibarra,sarah.ibarra@example.com,5427849808,South Jordan,2023-06-24
+29,Joseph,Preston,joseph.preston@example.com,4493534874,West Valley,2023-03-21
+30,Maria,Williams,maria.williams@example.com,2427868011,Murray,2024-05-05
+31,Mary,Aguilar,mary.aguilar@example.com,6204505331,West Valley,2023-02-22
+32,Terri,Brady,terri.brady@example.com,2260256342,Salt Lake City,2023-07-14
+33,Michele,Walker,michele.walker@example.com,5433036541,Salt Lake City,2023-07-03
+34,Ricardo,Zavala,ricardo.zavala@example.com,0142940196,West Valley,2023-11-06
+35,Catherine,Dixon,catherine.dixon@example.com,9340608835,West Valley,2024-02-18
+36,Cindy,Alvarado,cindy.alvarado@example.com,4846564823,Salt Lake City,2024-01-09
+37,Christina,Turner,christina.turner@example.com,4436995777,South Jordan,2023-10-02
+38,Laura,Moyer,laura.moyer@example.com,1489513433,Salt Lake City,2024-05-13
+39,John,Alvarez,john.alvarez@example.com,7693676320,South Jordan,2023-02-10
+40,Gregory,Rubio,gregory.rubio@example.com,0831727889,Draper,2023-05-31
+41,Lisa,Mcclain,lisa.mcclain@example.com,8727743487,Sandy,2023-11-13
+42,Chris,Mitchell,chris.mitchell@example.com,5581223623,West Valley,2023-10-23
+43,Mark,Owens,mark.owens@example.com,3669096705,Murray,2023-12-27
+44,Amanda,Navarro,amanda.navarro@example.com,7346706562,Salt Lake City,2023-01-24
+45,Amanda,Meadows,amanda.meadows@example.com,1627204653,Sandy,2023-04-27
+46,Kathleen,Gray,kathleen.gray@example.com,4170805310,West Valley,2023-02-10
+47,Mary,Howell,mary.howell@example.com,2719374529,Murray,2024-03-19
+48,Tami,Rodriguez,tami.rodriguez@example.com,4966319314,Salt Lake City,2023-07-14
+49,Kimberly,Reed,kimberly.reed@example.com,5185067165,West Valley,2023-08-21
+50,Gregory,Boyd,gregory.boyd@example.com,9877694531,Sandy,2024-03-03
+51,Karen,Hudson,karen.hudson@example.com,5075273545,West Valley,2023-03-25
+52,Angela,Black,angela.black@example.com,1367837770,West Valley,2023-07-01
+53,Richard,Sanchez,richard.sanchez@example.com,7885685574,Murray,2023-12-10
+54,David,Lee,david.lee@example.com,8233749894,West Valley,2023-12-26
+55,Jeremy,White,jeremy.white@example.com,8240084271,Sandy,2023-11-28
+56,Taylor,Alexander,taylor.alexander@example.com,0471167190,Salt Lake City,2023-11-08
+57,Stacy,Miller,stacy.miller@example.com,1869993867,Sandy,2023-03-29
+58,Veronica,Torres,veronica.torres@example.com,9133412328,Draper,2024-01-09
+59,Ricky,Norris,ricky.norris@example.com,4034471349,Murray,2023-03-25
+60,Amy,Holland,amy.holland@example.com,2102499471,South Jordan,2023-07-14
+61,Sherri,Mason,sherri.mason@example.com,7190659401,West Valley,2024-04-18
+62,Stephanie,Key,stephanie.key@example.com,9027874296,Sandy,2023-12-19
+63,Michael,Cook,michael.cook@example.com,2567468071,Draper,2023-04-23
+64,Darrell,Barton,darrell.barton@example.com,8760385977,Sandy,2023-06-16
+65,Andrea,Pennington,andrea.pennington@example.com,7109324808,Salt Lake City,2023-04-28
+66,Victoria,Durham,victoria.durham@example.com,1274846773,Salt Lake City,2024-02-17
+67,Patrick,Weeks,patrick.weeks@example.com,1465840449,West Valley,2023-07-25
+68,Sean,Washington,sean.washington@example.com,8867533963,West Valley,2023-02-03
+69,Julie,Thornton,julie.thornton@example.com,6270289517,Murray,2024-04-12
+70,Alexis,Thomas,alexis.thomas@example.com,1745961586,Draper,2024-03-24
+71,Barry,Jones,barry.jones@example.com,3161172400,Sandy,2023-06-11
+72,Michael,Jordan,michael.jordan@example.com,8692221969,Murray,2023-12-02
+73,Douglas,Murray,douglas.murray@example.com,7407482175,South Jordan,2023-07-22
+74,Hannah,Bryant,hannah.bryant@example.com,3671369594,Sandy,2023-08-23
+75,Joshua,Knight,joshua.knight@example.com,9743953394,Murray,2023-05-16
+76,Kyle,Alexander,kyle.alexander@example.com,2145623285,Murray,2023-05-07
+77,Maria,Scott,maria.scott@example.com,4517123685,Sandy,2023-10-15
+78,Joseph,Martinez,joseph.martinez@example.com,4965137098,Draper,2023-05-15
+79,Deborah,Reid,deborah.reid@example.com,4612004711,Sandy,2023-10-27
+80,Paul,Watson,paul.watson@example.com,9261796405,South Jordan,2024-04-04
+81,Stephanie,Foley,stephanie.foley@example.com,5850643171,Draper,2023-07-24
+82,Brent,Cook,brent.cook@example.com,9318393352,West Valley,2023-04-23
+83,Michele,Thomas,michele.thomas@example.com,8421020539,Murray,2023-09-18
+84,Joseph,Martinez,joseph.martinez@example.com,8117758917,South Jordan,2023-02-16
+85,Bradley,Logan,bradley.logan@example.com,7007661771,Salt Lake City,2024-03-16
+86,Eddie,Martinez,eddie.martinez@example.com,6984789611,Salt Lake City,2023-03-20
+87,Shannon,Perez,shannon.perez@example.com,7661565452,Sandy,2023-03-23
+88,Marie,Davis,marie.davis@example.com,5280988516,Sandy,2023-08-05
+89,Tanya,Burke,tanya.burke@example.com,1983273158,Draper,2023-02-02
+90,Audrey,Aguirre,audrey.aguirre@example.com,9402445502,South Jordan,2023-07-15
+91,Chad,Figueroa,chad.figueroa@example.com,1836675254,Draper,2023-08-28
+92,Christopher,Williams,christopher.williams@example.com,9014767976,Draper,2023-05-09
+93,Daniel,Jordan,daniel.jordan@example.com,9784036900,Draper,2024-03-16
+94,Katrina,Duran,katrina.duran@example.com,5107622683,Salt Lake City,2023-12-15
+95,Charles,Hensley,charles.hensley@example.com,6071596966,Sandy,2023-02-28
+96,Andrew,Nguyen,andrew.nguyen@example.com,5161369681,Sandy,2024-03-29
+97,Jeffrey,Maxwell,jeffrey.maxwell@example.com,8188355231,Draper,2024-01-20
+98,Glenn,Hernandez,glenn.hernandez@example.com,2779979955,West Valley,2024-01-29
+99,Taylor,Welch,taylor.welch@example.com,9058147700,Sandy,2023-06-24
+100,Deanna,Madden,deanna.madden@example.com,9986798079,Salt Lake City,2023-05-31

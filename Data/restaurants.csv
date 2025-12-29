@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,cuisine_type,city,is_active
+1,Taco Fiesta,Mexican,Salt Lake City,1
+2,Pasta House,Italian,Murray,1
+3,Burger Hub,American,West Valley,1
+4,Sushi Corner,Japanese,Salt Lake City,1
+5,Mason-Rosario Kitchen,Indian,Murray,1
+6,Garcia-Nolan Kitchen,Mexican,Sandy,1
+7,Haas-Miller Kitchen,Peruvian,Murray,0
+8,"Thompson, Wright and Kim Kitchen",Chinese,Sandy,1
+9,Warren-Bishop Kitchen,American,West Valley,1
+10,Watson-Campbell Kitchen,Peruvian,Draper,0
+11,Schroeder-Shelton Kitchen,Thai,South Jordan,0
+12,Mccormick Ltd Kitchen,Italian,West Valley,1
+13,Jones-Davis Kitchen,Japanese,Salt Lake City,1
+14,"Hughes, King and York Kitchen",Italian,Salt Lake City,1
+15,"Marks, Cook and Aguilar Kitchen",Italian,Draper,1
+16,Rangel LLC Kitchen,American,Sandy,1
+17,"Hale, Myers and Larson Kitchen",Peruvian,Murray,1
+18,Collins Group Kitchen,Peruvian,Draper,1
+19,"Conner, Li and Santiago Kitchen",Japanese,Draper,1
+20,"Osborn, Gaines and Davis Kitchen",Chinese,South Jordan,1
+21,"Henderson, Cox and Cox Kitchen",Mediterranean,Draper,1
+22,Bean LLC Kitchen,Italian,Murray,1
+23,Lee-Cooke Kitchen,Italian,West Valley,0
+24,Jones Inc Kitchen,Peruvian,Murray,1
+25,"Wise, Conley and Stephenson Kitchen",Mexican,Salt Lake City,0
+26,Stanley PLC Kitchen,Japanese,Salt Lake City,0
+27,Harper and Sons Kitchen,Thai,Salt Lake City,1
+28,White Ltd Kitchen,Chinese,Sandy,1
+29,"Lamb, Martin and Kim Kitchen",Japanese,Draper,1
+30,Diaz-Ball Kitchen,Mediterranean,Murray,1
+31,Bishop-Goodwin Kitchen,Indian,Murray,0
+32,Young-Allen Kitchen,Italian,Sandy,1
+33,Mckee-Lee Kitchen,Thai,South Jordan,1
+34,"Valentine, Joyce and Murray Kitchen",Mediterranean,Sandy,0
+35,Strickland-Shaw Kitchen,Italian,Salt Lake City,1
+36,Burch-Montoya Kitchen,Thai,Salt Lake City,1
+37,"Taylor, Wright and Davidson Kitchen",Japanese,Murray,1
+38,Spencer-Garcia Kitchen,American,South Jordan,1
+39,"Rosales, Mitchell and Hines Kitchen",Chinese,South Jordan,1
+40,Cole-Palmer Kitchen,Italian,South Jordan,0
+41,Davis-Lozano Kitchen,Mexican,Sandy,0
+42,Wilkerson-Arias Kitchen,Italian,Murray,1
+43,Brown-Shaw Kitchen,Indian,South Jordan,1
+44,Hughes Inc Kitchen,Japanese,South Jordan,0
+45,Walker-Flores Kitchen,American,South Jordan,0
+46,Combs Ltd Kitchen,Indian,West Valley,1
+47,Moody-Taylor Kitchen,Chinese,South Jordan,1
+48,Lowery-Kennedy Kitchen,American,Murray,1
+49,Blake Group Kitchen,Japanese,Salt Lake City,0
+50,Gilbert-Bullock Kitchen,Thai,Salt Lake City,0
+51,Scott and Sons Kitchen,Mediterranean,Draper,1
+52,"Bentley, Lynch and Henderson Kitchen",Mexican,Draper,0
+53,Young-Martinez Kitchen,American,Salt Lake City,0
+54,Barnes PLC Kitchen,Japanese,South Jordan,0
+55,Brown-Copeland Kitchen,Japanese,Draper,0
+56,Carlson-Smith Kitchen,Italian,South Jordan,1
+57,"Andrews, Higgins and Carter Kitchen",Chinese,Murray,1
+58,Mendez and Sons Kitchen,Japanese,West Valley,1
+59,"Butler, Beck and Miller Kitchen",American,Sandy,1
+60,Jones-Fox Kitchen,Mediterranean,West Valley,0
+61,"Hartman, Romero and Smith Kitchen",Mexican,South Jordan,0
+62,Williams-Hughes Kitchen,Italian,Draper,1
+63,King-Smith Kitchen,Peruvian,West Valley,1
+64,Cooper Ltd Kitchen,Thai,Salt Lake City,1
+65,"Fuller, Ingram and Moss Kitchen",Thai,West Valley,1
+66,Anderson-Bell Kitchen,Mediterranean,Draper,1
+67,Li-Thompson Kitchen,Peruvian,Salt Lake City,1
+68,"Marshall, Dominguez and Welch Kitchen",Italian,Murray,1
+69,Brown Group Kitchen,Italian,Salt Lake City,1
+70,Carter Inc Kitchen,Chinese,West Valley,1
+71,Blackwell LLC Kitchen,Thai,Murray,1
+72,Robertson-Hays Kitchen,Peruvian,South Jordan,1
+73,"Kennedy, Johnson and Lucas Kitchen",Mexican,Salt Lake City,1
+74,Kelly-Norman Kitchen,Chinese,Salt Lake City,0
+75,"Rivera, Martinez and Richardson Kitchen",Thai,Murray,1
+76,Paul-Kline Kitchen,American,Sandy,1
+77,Morgan-Lopez Kitchen,Peruvian,Sandy,1
+78,"Jimenez, Glass and Stone Kitchen",Peruvian,Salt Lake City,0
+79,Acosta Inc Kitchen,Italian,Sandy,1
+80,Morrison-Short Kitchen,Peruvian,Salt Lake City,1
+81,"Carter, Garcia and Murphy Kitchen",Peruvian,Murray,1
+82,Parker-Morrison Kitchen,American,Salt Lake City,1
+83,Jackson-Wallace Kitchen,Thai,Salt Lake City,1
+84,Williams-Berg Kitchen,Japanese,Sandy,1
+85,Mendez-Graham Kitchen,Italian,West Valley,1
+86,"Whitney, Gould and Jones Kitchen",American,Murray,1
+87,"Sullivan, Palmer and Brady Kitchen",American,South Jordan,0
+88,Cisneros and Sons Kitchen,American,Sandy,1
+89,"Gregory, Kim and Martinez Kitchen",Indian,Sandy,1
+90,Osborne LLC Kitchen,Chinese,Murray,0
+91,Reyes-Bradley Kitchen,Indian,Salt Lake City,1
+92,"Hernandez, Cole and Watson Kitchen",Japanese,Murray,1
+93,Hines-Berry Kitchen,Thai,West Valley,1
+94,"Richardson, Edwards and Ramirez Kitchen",Japanese,Salt Lake City,1
+95,Johnson and Sons Kitchen,Indian,West Valley,1
+96,Holmes-Mcintyre Kitchen,Italian,West Valley,1
+97,Green LLC Kitchen,Peruvian,South Jordan,1
+98,"Griffin, Davies and Mitchell Kitchen",Mexican,Salt Lake City,1
+99,Gonzalez-Taylor Kitchen,American,Draper,1
+100,Hayes Ltd Kitchen,Mexican,Salt Lake City,1
